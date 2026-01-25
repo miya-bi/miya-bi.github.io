@@ -1,0 +1,44 @@
+{
+    "id": "demo",
+    "name": "Demo Questions",
+    "description": "A generic set of demo questions",
+    "author": "System",
+    "questions": [
+        {
+            "q": "What is Mico?",
+            "options": [
+                "Duck",
+                "Frog",
+                "Cat"
+            ],
+            "answer": 0,
+            "subject": "general",
+            "score": 2,
+            "reference": "Mico is a Duck."
+        },
+        {
+            "q": "Best element?",
+            "options": [
+                "Fire",
+                "Water",
+                "Earth"
+            ],
+            "answer": 1,
+            "subject": "general",
+            "score": 5,
+            "reference": "Water is essential for life."
+        },
+        {
+            "q": "Capital of France?",
+            "options": [
+                "London",
+                "Berlin",
+                "Paris"
+            ],
+            "answer": 2,
+            "subject": "general",
+            "score": 3,
+            "reference": "Paris is the capital of France."
+        }
+    ]
+}
