@@ -14,19 +14,21 @@
             "answer": 0,
             "subject": "general",
             "score": 2,
-            "reference": "Mico is a Duck."
+            "reference": "Mico is a Duck.",
+            "url": ""
         },
         {
-            "q": "Best element?",
+            "q": "What is the best temperature to drink the coffee?",
             "options": [
-                "Fire",
-                "Water",
-                "Earth"
+                "38°C-50°C",
+                "70°C-80°C",
+                "58°C-66°C"
             ],
-            "answer": 1,
+            "answer": 2,
             "subject": "general",
-            "score": 5,
-            "reference": "Water is essential for life."
+            "score": 3,
+            "reference": "58°C–66°C (136°F–151°F) is considered to be the optimal range for maximum flavor and comfort. Source: A UC Davis study: https://www.nature.com/articles/s41598-020-73341-4",
+            "url": "https://www.youtube.com/shorts/qlp0ov7DaTQ"
         },
         {
             "q": "Capital of France?",
@@ -38,7 +40,8 @@
             "answer": 2,
             "subject": "general",
             "score": 3,
-            "reference": "Paris is the capital of France."
+            "reference": "Paris is the capital of France.",
+            "url": ""
         }
     ]
 }
